@@ -1,1 +1,7 @@
 # Problem-Set-1
+
+This household’s cost of living rose 29.7% from 2019 to 2024, reaching an index of 129.7. Rent (43%), groceries (20%), and car payments (14%) account for the largest spending shares, based on the household’s 2019 budget. The weighted increase exceeds the simple average of 28.2% because major spending categories, particularly rent and groceries, experienced relatively large price increases.
+
+Compared with the official CPI-U increase of approximately 22%, our household experienced about 7 percentage points more inflation than the national average. The estimate is relatively stable under different spending assumptions: varying each category’s share between 0% and 50%, while adjusting the remaining shares proportionally, produces an index between 122.8 and 132.8. Dining out has the greatest influence because its prices rose only about 15%, considerably less than most other categories. Rent’s weight has little effect because its price increase is close to the overall basket average.
+
+Confidence is moderate to high that household inflation was approximately 28%–31%. However, the 2019 and 2024 prices are estimates rather than directly measured data, and national price indexes may not accurately reflect the household’s actual housing, transportation, and utility costs. Additionally, if the household spends substantially more on dining out than assumed, its actual inflation rate would likely be lower. Therefore, the 29.7% estimate is a useful approximation, not an exact measurement.
